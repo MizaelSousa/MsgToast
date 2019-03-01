@@ -1,0 +1,15 @@
+/Users/aluno/Projects/MsgToast/MsgToast/bin/Debug/netstandard2.0/MsgToast.deps.json
+/Users/aluno/Projects/MsgToast/MsgToast/bin/Debug/netstandard2.0/MsgToast.dll
+/Users/aluno/Projects/MsgToast/MsgToast/bin/Debug/netstandard2.0/MsgToast.pdb
+/Users/aluno/Projects/MsgToast/MsgToast/bin/Debug/netstandard2.0/Mono.Android.dll
+/Users/aluno/Projects/MsgToast/MsgToast/bin/Debug/netstandard2.0/Mono.Android.pdb
+/Users/aluno/Projects/MsgToast/MsgToast/obj/Debug/netstandard2.0/MsgToast.csprojAssemblyReference.cache
+/Users/aluno/Projects/MsgToast/MsgToast/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/MsgToast/MsgToast/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/MsgToast/MsgToast/obj/Debug/netstandard2.0/MsgToast.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/MsgToast/MsgToast/obj/Debug/netstandard2.0/MsgToast.AssemblyInfoInputs.cache
+/Users/aluno/Projects/MsgToast/MsgToast/obj/Debug/netstandard2.0/MsgToast.AssemblyInfo.cs
+/Users/aluno/Projects/MsgToast/MsgToast/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/MsgToast/MsgToast/obj/Debug/netstandard2.0/MsgToast.csproj.CopyComplete
+/Users/aluno/Projects/MsgToast/MsgToast/obj/Debug/netstandard2.0/MsgToast.dll
+/Users/aluno/Projects/MsgToast/MsgToast/obj/Debug/netstandard2.0/MsgToast.pdb
